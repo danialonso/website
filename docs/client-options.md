@@ -32,6 +32,10 @@ These clients are compatible with our [staging endpoint for ACME v2](https://com
 
 ## Bash
 
+- [getSSL-Azure Automation](https://w.itpro.es/getssl-azure) (Compatible to automate certs in any App Service)
+
+## Azure Web Apps
+
 - [GetSSL](https://github.com/srvrco/getssl) (bash, also automates certs on remote hosts via ssh) 
 - [acme.sh](https://github.com/Neilpang/acme.sh) (Compatible to bash, dash and sh)
 - [dehydrated](https://github.com/lukas2511/dehydrated) (Compatible to bash and zsh)
