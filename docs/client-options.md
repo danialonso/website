@@ -30,6 +30,10 @@ These clients are compatible with our [staging endpoint for ACME v2](https://com
 - [acme.sh](https://github.com/Neilpang/acme.sh/tree/2) (`2` branch)
 - [Net::ACME2](https://metacpan.org/pod/Net::ACME2)
 
+## Azure Web Apps
+
+- [getSSL-Azure Automation](https://w.itpro.es/getssl-azure) (Compatible to automate certs in any App Service)
+
 ## Bash
 
 - [GetSSL](https://github.com/srvrco/getssl) (bash, also automates certs on remote hosts via ssh) 
